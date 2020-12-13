@@ -1,0 +1,24 @@
+:root {
+    --bg: #e4f9ff;
+    --text-color: #FD787E;
+    --text-shadow: #CC4B50;
+}
+@font-face {
+    font-family: 'NerkoOne';
+    src: url("NerkoOne-Regular.woff");
+    font-style: normal;
+    font-weight: 100;
+}
+h1 {
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    font-family: 'NerkoOne';
+    font-size: 3rem;
+    color: var(--text-color);
+    text-shadow: 1px 2px 0px var(--text-shadow);
+}
+h2 {
+    font-family: 'NerkoOne';
+    letter-spacing: 0.2rem;
+}

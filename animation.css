@@ -1,0 +1,46 @@
+/* First Animation */
+.tomOne {
+    position: absolute;
+    top: 89.3rem;
+    right: -5rem;
+    width: 7rem;
+}
+
+@keyframes move-in-right {
+    0% { 
+        transform: translateX(0rem); 
+    }
+    50% { 
+        transform: translateX(-5rem);
+    }
+    100% { 
+        transform: translateX(0rem);
+    }
+}
+
+.moveInRight {
+    animation: move-in-right 4s ease;
+}
+
+/* Second Animation */
+.tomThree {
+    position: absolute;
+    width: 6rem;
+    left: -10rem;
+    top: 197rem;
+}
+
+@keyframes move-in-left {
+    0% { 
+        transform: translateX(0rem); 
+    }
+    50% { 
+        transform: translateX(10rem);
+    }
+    100% { 
+        transform: translateX(0rem);
+    }
+}
+.moveInLeft {
+    animation: move-in-left 4s ease;
+}

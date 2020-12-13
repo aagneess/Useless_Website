@@ -1,0 +1,43 @@
+* {
+    background-color: var(--bg);
+}
+main {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+}
+header {
+    align-items: center;
+    display: flex;
+    padding: 5rem;
+}
+.container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2rem;
+}
+button {
+    border: none;
+    cursor: pointer;
+    outline: none;
+
+}
+section .container button img {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    height: 70%;
+    padding-bottom: 3rem;
+    cursor: pointer;
+    transition: transform 300ms ease;
+}
+section .container img:hover { 
+    transform: scale(1.1);
+}
+
