@@ -10,8 +10,8 @@
 **Agnes Binett** 
 
 ## Testers
-* ...
-* ...
+* Amanda Fager
+* Gilda Eklöf
 
 ## Installation
 Clone the repository to your computer:
