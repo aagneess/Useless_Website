@@ -9,7 +9,6 @@ const snusSorter = [
     {name: "Lyft",
     image_url: "https://media.snusbolaget.se/snusbolaget/images/301307-g-2018-10-12-105148265/555/555/0/lyft-ice-cool-strong-mint-slim-all-white-portion.png",
     nook_url: "https://animalcrossing.fandom.com/wiki/Skye"
-
     },
 
     {name: "General XR",
