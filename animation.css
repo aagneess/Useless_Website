@@ -4,6 +4,7 @@
     top: 89.3rem;
     right: -5rem;
     width: 7rem;
+    overflow-x: hidden;
 }
 
 @keyframes move-in-right {

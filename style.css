@@ -1,6 +1,7 @@
 * {
     background-color: var(--bg);
-    overflow-x: hidden;
+    margin: auto;
+    box-sizing: border-box;
 }
 main {
     align-items: center;
@@ -8,8 +9,6 @@ main {
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: row;
-    overflow-x: hidden;
-    padding-right: -5rem;
 }
 header {
     align-items: center;
