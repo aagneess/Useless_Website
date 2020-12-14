@@ -1,4 +1,5 @@
 # Useless Web
+<img src="https://media.giphy.com/media/KFhv3T1seYSJuak8TN/giphy.gif" width= "100%">
 
 ## Built with 
 * Javascript
