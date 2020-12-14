@@ -13,13 +13,8 @@
 * Amanda Fager
 * Gilda Eklöf
 
-## Installation
-Clone the repository to your computer:
-```
-git clone https://github.com/aagneess/Useless_Website
-```
-And finally, open the project in your preferred browser! :)
+## Visit the site!
+https://agnesuselesswebsite.netlify.app
 
 ## License
-
 MIT License. For more details https://github.com/aagneess/Useless_Website/blob/main/LICENSE
