@@ -1,7 +1,8 @@
 * {
     background-color: var(--bg);
-    margin: auto;
+    margin: auto; 
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 main {
     align-items: center;
