@@ -19,7 +19,7 @@
 }
 
 .moveInRight {
-    animation: move-in-right 4s ease;
+    animation: move-in-right 6s ease;
 }
 
 /* Second Animation */
@@ -42,5 +42,5 @@
     }
 }
 .moveInLeft {
-    animation: move-in-left 4s ease;
+    animation: move-in-left 6s ease;
 }

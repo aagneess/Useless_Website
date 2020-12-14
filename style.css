@@ -1,5 +1,6 @@
 * {
     background-color: var(--bg);
+    overflow-x: hidden;
 }
 main {
     align-items: center;
@@ -7,11 +8,12 @@ main {
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: row;
+    
 }
 header {
     align-items: center;
     display: flex;
-    padding: 5rem;
+    padding: 3rem;
 }
 .container {
     align-items: center;
@@ -41,3 +43,8 @@ section .container img:hover {
     transform: scale(1.1);
 }
 
+@media screen and (max-width: 600px) {
+    section .container button img {
+        width: 50%;
+    }
+}
