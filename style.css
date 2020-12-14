@@ -8,7 +8,7 @@ main {
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: row;
-    
+    overflow-x: hidden;
 }
 header {
     align-items: center;
@@ -21,21 +21,20 @@ header {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
-    /* padding: 2rem; */
 }
 button {
     border: none;
     cursor: pointer;
     outline: none;
-
+    overflow: hidden;
 }
 section .container button img {
     margin: auto;
     display: flex;
     justify-content: center;
-    width: 70%;
-    height: 70%;
-    padding-bottom: 3rem;
+    width: 60%;
+    height: 60%;
+    object-fit: cover;
     cursor: pointer;
     transition: transform 300ms ease;
 }

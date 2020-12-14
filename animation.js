@@ -16,7 +16,7 @@ window.addEventListener('scroll', isInView);
 function isInView(e) {
     var nookTwo = document.getElementById('nookTwo'),
         position = nookTwo.getBoundingClientRect(),
-        offset = 2200;
+        offset = 2100;
     
     if (position.bottom+offset < window.scrollY) {
         nookTwo.style.display = "block";
