@@ -44,3 +44,9 @@
 .moveInLeft {
     animation: move-in-left 6s ease;
 }
+
+@media screen and (max-width: 600px) {
+    .tomOne, .tomTwo {
+        width: 4rem;
+    }
+}

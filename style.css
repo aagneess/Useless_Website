@@ -9,6 +9,7 @@ main {
     justify-content: center;
     flex-direction: row;
     overflow-x: hidden;
+    padding-right: -5rem;
 }
 header {
     align-items: center;
