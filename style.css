@@ -19,7 +19,7 @@ header {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 2rem;
+    /* padding: 2rem; */
 }
 button {
     border: none;

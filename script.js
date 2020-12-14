@@ -2,7 +2,7 @@
 
 const snusSorter = [
     {name: "Lundgrens Fjällen",
-    dataNumber: "1",
+    dataNumber: "1", //omit?
     image_url: "https://media.snusbolaget.se/snusbolaget/images/302224-g-2020-04-17-112625930/555/555/0/lundgrens-fjallen-vit-portion.png",
     nook_url: "https://animalcrossing.fandom.com/wiki/Erik"
     },
